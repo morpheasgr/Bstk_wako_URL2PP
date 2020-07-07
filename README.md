@@ -1,5 +1,5 @@
 # Bstk_wako_URL2PP
-Basically a clipboard monitor for video links to be used with wako/Helios on Windows x64, through 64-bit Android BlueStacks and PotPlayer x64.
+Basically a clipboard monitor for video links to be used with wako/Helios on Windows x64, through 64-bit Android BlueStacks and PotPlayer.
 
 Once a video URL is copied to the clipboard the video player will launch on Windows and playback your content,
 which will perform significantly better than any video player inside the android emulator.
