@@ -1,5 +1,5 @@
 # Bstk_wako_URL2PP
-Basically a clipboard monitor to be used with wako/Helios on Windows x64, through 64-bit BlueStacks and PotPlayer.
+Basically a clipboard monitor to be used with wako/Helios on Windows x64, through 64-bit Android BlueStacks and PotPlayer 64-bit.
 
 What you need:
 
