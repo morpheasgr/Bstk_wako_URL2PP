@@ -22,4 +22,4 @@ Usage:
 Info:
 This is written in Batch and AutoHotKey.
 
-Feel free to report issues. Sources are inside the zip in the Releases section.
+Feel free to report issues. Sources and binaries are inside the Bstk64_wako_URL2PP.zip in the Releases section.
