@@ -9,7 +9,8 @@ What you need:
 0. 64-bit Windows.
 1. BlueStacks_bgp64 (64-bit Android version): [Official Link](http://cdn3.bluestacks.com/downloads/windows/bgp64/4.210.0.4009/eec2adeab2bced3a69c6c04b74ab8a9c/x64/BlueStacks-Installer_4.210.0.4009_amd64_native.exe) (Link found on bstweaker.tk, if this gets outdated Google it or look there)
 2. PotPlayer 64-bit on Windows: [Official Link](https://potplayer.daum.net/)
-3. wako installed in BlueStaks either through Google Play or other means (such as Aurora Store)
+3. wako installed in BlueStacks either through Google Play or other means (such as Aurora Store)
+4. Obviously Real-Debrid/Premiumize etc. subscription. If you don't have one, I wonder why you are here reading this.
 
 BlueStacks and PotPlayer need to be installed in the default installation directories.
 
