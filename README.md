@@ -26,5 +26,6 @@ Usage:
 
 Info:
 This is written in Batch and AutoHotKey.
+The app will automatically quit if BlueStacks is not running or when it's closed.
 
 Feel free to report issues. Sources and binaries are inside the Bstk64_wako_URL2PP.zip in the Releases section.
